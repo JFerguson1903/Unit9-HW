@@ -1,5 +1,6 @@
 // Packages needed for this application
 const inquirer = require('inquirer');
+const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
 
 // Array of questions for user input
@@ -53,7 +54,7 @@ const questions = [{
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+    fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) =>
         err ? console.log(err) : console.log('Success!')
     );
 }
@@ -63,9 +64,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then((data) => {
-            const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
-
-
+            writeToFile('README.md', generateMarkdown(data))
         });
 }
 
