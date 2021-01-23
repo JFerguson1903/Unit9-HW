@@ -1,51 +1,47 @@
+# 1
 
-      # Unit 9 Homework - Professional README Generator
+## Badges
 
-      ## Badges
-      
-      [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-      ## Description
+## Description
 
-      1
+1
 
-      ## Table of Contents (Optional)
+## Table of Contents (Optional)
 
-        * [Installation](#installation)
-        * [Usage](#usage)
-        * [Credits](#credits)
-        * [License](#license)
-        * [Contributing](#contributing)
-        * [Tests](#tests)
-        * [Questions](#questions)
-  
-      ## Installation
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-      npm i
+## Installation
 
-      ## Usage
+1
 
-      tbd
+## Usage
 
-      ## Credits
+1
 
-      ## License
+## Credits
 
-      Licensed under the [GPL 3.0](./licenses/gpl.txt) license.
+## License
 
-      ## Contributing
+Licensed under the [MIT](./licenses/mit.txt) license.
 
-      TBD
+## Contributing
 
-      ## Tests
+1
 
-      To run tests, run the following command: 
+## Tests
 
-      npm test
+To run tests, run the following command: 
 
-      ## Questions
+npm test
 
-      If you have any questions about the repo, open an issue or contact me directly at jferguson1903@gmail.com. You can find more of my work at [JFerguson1903](https://github.com/JFerguson1903/).
-  
+## Questions
 
-  
+If you have any questions about the repo, open an issue or contact me directly at . You can find more of my work at [1](https://github.com/1/).

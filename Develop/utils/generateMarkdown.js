@@ -38,57 +38,54 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-    return `
-      # ${data.title}
+    return `# ${data.title}
 
-      ## Badges
-      
-      ${renderLicenseBadge(data.license)}
+## Badges
 
-      ## Description
+${renderLicenseBadge(data.license)}
 
-      ${data.description}
+## Description
 
-      ## Table of Contents (Optional)
+${data.description}
 
-        * [Installation](#installation)
-        * [Usage](#usage)
-        * [Credits](#credits)
-        * [License](#license)
-        * [Contributing](#contributing)
-        * [Tests](#tests)
-        * [Questions](#questions)
-  
-      ## Installation
+## Table of Contents (Optional)
 
-      ${data.installation}
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-      ## Usage
+## Installation
 
-      ${data.usage}
+${data.installation}
 
-      ## Credits
+## Usage
 
-      ## License
+${data.usage}
 
-      ${renderLicenseLink(data.license)}
+## Credits
 
-      ## Contributing
+## License
 
-      ${data.contributing}
+${renderLicenseLink(data.license)}
 
-      ## Tests
+## Contributing
 
-      To run tests, run the following command: 
+${data.contributing}
 
-      ${data.tests}
+## Tests
 
-      ## Questions
+To run tests, run the following command: 
 
-      If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.username}](https://github.com/${data.username}/).
-  
+${data.tests}
 
-  `;
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.username}](https://github.com/${data.username}/).
+`;
 }
 
 module.exports = generateMarkdown;
