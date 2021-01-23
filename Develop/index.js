@@ -26,6 +26,11 @@ const questions = [{
         message: 'What does the user need to know about using the repo?',
     },
     {
+        type: 'input',
+        name: 'credits',
+        message: 'Please list any collaborators, third-party assests, tutorials, or links to credit:',
+    },
+    {
         type: 'list',
         message: 'What kind of license should your project have?',
         name: 'license',
