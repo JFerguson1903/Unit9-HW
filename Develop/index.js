@@ -52,10 +52,22 @@ const questions = [{
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+        err ? console.log(err) : console.log('Success!')
+    );
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer
+        .prompt(questions)
+        .then((data) => {
+            const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
+
+
+        });
+}
 
 // Function call to initialize app
 init();
