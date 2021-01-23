@@ -1,4 +1,4 @@
-# Sample
+# Bobafetts Redemption
 
 ## Badges
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-bjkdvnujrdf
+Everything is awesome!
 
 ## Table of Contents
 
@@ -24,11 +24,11 @@ npm i
 
 ## Usage
 
-awesome
+This is not the droid you are looking for
 
 ## Credits
 
-nope
+Han Solo
 
 ## License
 
@@ -36,7 +36,7 @@ Licensed under the [BSD 3](./licenses/bsd.txt) license.
 
 ## Contributing
 
-ienvlv
+Be one with the Force.
 
 ## Tests
 
@@ -46,4 +46,4 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at jferguson1903@gmail.com. You can find more of my work at [jferguson1903](https://github.com/jferguson1903/).
+If you have any questions about the repo, open an issue or contact me directly at bunhair@lightsaber.com. You can find more of my work at [bunhairLeia](https://github.com/bunhairLeia/).
