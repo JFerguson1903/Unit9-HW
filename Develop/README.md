@@ -1,14 +1,14 @@
-# 1
+# Sample
 
 ## Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Description
 
-1
+bjkdvnujrdf
 
-## Table of Contents (Optional)
+## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
@@ -20,21 +20,23 @@
 
 ## Installation
 
-1
+npm i
 
 ## Usage
 
-1
+awesome
 
 ## Credits
 
+nope
+
 ## License
 
-Licensed under the [MIT](./licenses/mit.txt) license.
+Licensed under the [BSD 3](./licenses/bsd.txt) license.
 
 ## Contributing
 
-1
+ienvlv
 
 ## Tests
 
@@ -44,4 +46,4 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at . You can find more of my work at [1](https://github.com/1/).
+If you have any questions about the repo, open an issue or contact me directly at jferguson1903@gmail.com. You can find more of my work at [jferguson1903](https://github.com/jferguson1903/).
