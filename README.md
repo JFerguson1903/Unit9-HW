@@ -6,8 +6,7 @@
 
 ## Description
 
-I was given the assignment through Triliogy/WASHU Coding Bootcamp to create an application that "allows a user to save events for each hour of the day by modifying starter code".  Additionally the app was to run in the brower and feature dynamically updated HTML and CSS powered by jQuery. The user story was that, "AS AN employee with a busy schedule
-I WANT to add important events to a daily planner SO THAT I can manage my time effectively".
+I was given the assignment through Triliogy/WASHU Coding Bootcamp to create an open source "command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package". The user story was that, "AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project".
 
 The additional acceptance criteria was as follows:
 
@@ -30,12 +29,13 @@ The additional acceptance criteria was as follows:
 
 ## Installation
 
-Run ```npm i``` in the terminal.  Once everything has successfully installed,
-Run ```node index.js``` in terminal. 
+Run ```npm i``` in the terminal.   
 
 ## Usage
 
-This is not the droid you are looking for
+Once you have ran the installation above and everything has successfully installed, run ```node index.js``` in the terminal.  Proceed to answer the prompted questions through the terminal.  Please see the demo below.
+
+![README Generator Demo](./Assets/README Generator Demo.mp4)
 
 ## Credits
 
@@ -73,12 +73,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Tests
-
-To run tests, run the following command: 
-
-npm test
-
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at bunhair@lightsaber.com. You can find more of my work at [bunhairLeia](https://github.com/bunhairLeia/).
+If you have any questions about the repo, open an issue or contact me directly at jferguson1903@gmail.com. You can find more of my work on my GitHub [JFerguson1903](https://github.com/JFerguson1903).
