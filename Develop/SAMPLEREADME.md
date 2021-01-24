@@ -6,7 +6,7 @@
 
 ## Description
 
-Everything is awesome!
+This is a SAMPLE README for the fake project Bobafetts Redemption.
 
 ## Table of Contents
 
@@ -24,11 +24,11 @@ npm i
 
 ## Usage
 
-This is not the droid you are looking for
+This is not an actual repo or project but if it were we could imagine it would be pretty kickass!
 
 ## Credits
 
-Han Solo
+Han Solo, Jabba the Hut, & Jengo Fett.
 
 ## License
 
@@ -36,7 +36,7 @@ Licensed under the [BSD 3](./licenses/bsd.txt) license.
 
 ## Contributing
 
-Be one with the Force.
+If you would like to suggest ideas on what this project should really be if it came to fruition, open and issue and leave your idea there. 
 
 ## Tests
 
