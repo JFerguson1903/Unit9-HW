@@ -35,7 +35,9 @@ Run ```npm i``` in the terminal.
 
 Once you have ran the installation above and everything has successfully installed, run ```node index.js``` in the terminal.  Proceed to answer the prompted questions through the terminal.  Please see the demo below.
 
-![README Generator Demo](./Assets/README Generator Demo.mp4)
+![README Generator Demo](./Assets/README Generator Demo.gif)
+
+A larger copy of the demo is avaliable [here](./Assets/README Generator Demo.mp4).
 
 ## Credits
 
