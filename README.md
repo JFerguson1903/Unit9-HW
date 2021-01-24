@@ -37,7 +37,7 @@ Once you have ran the installation above and everything has successfully install
 
 ![README Generator Demo](./Assets/READMEGeneratorDemo.gif)
 
-A larger copy of the demo is avaliable [here](./Assets/READMEGeneratorDemo.mp4).
+A larger copy of the demo is avaliable [here](https://jferguson1903.github.io/Unit9-HW/Assets/READMEGeneratorDemo.mp4).
 
 ## Credits
 
